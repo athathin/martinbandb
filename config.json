@@ -1,0 +1,46 @@
+{
+  "main_config": {
+    "token": "ODY0NTY1MDUxNjI0NTIxNzU5.YO3S8w.NVXg4I34rHkZ9V7-IRJRtjnEfyw",
+    "prefix": "sg!",
+    "ban_img_url": "https://i.imgur.com/u2VxIpE.png",
+    "unban_img_url": "https://i.imgur.com/pKnlPS9.jpg",
+    "copyright": "@ 2021 Martinz' Zone"
+  },
+  "presence": {
+    "presname1": "This Server",
+    "type": "WATCHING"
+  },
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "martinzbandb"
+  },
+  "permissions": {
+    "can_ban_roleids": [
+      "864565178016071680",
+      "8661775323897266186"
+    ],
+    "can_appeal_roleids": [
+      "864565178016071680",
+      "804948710643597313"
+    ]
+  },
+  "logging": {
+    "logging_guild_id": "864565151926976542",
+    "report_logs_channelid": "866139891489833001",
+    "appeal_logs_channelid": "866139891489833001",
+    "ban_logs_channelid": "866139891489833001"
+ 
+  },
+  "help_embed": {
+    "description": "**SafeGuard Ban Database**"
+  },
+  "ticket_system":{
+    "ticket_category": "Your-category-goes-here"
+ }
+
+  }
+
+  
+  
